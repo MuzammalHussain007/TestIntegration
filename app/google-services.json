@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708328985221",
+    "project_id": "testintegration-a7759",
+    "storage_bucket": "testintegration-a7759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708328985221:android:349cae0e39620079598fec",
+        "android_client_info": {
+          "package_name": "com.example.testintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708328985221-lfiservc8pdee9fjbinho50qj35pfqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpyLqalpDTwu0TgorF8nzvNzU66Qj4t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708328985221-lfiservc8pdee9fjbinho50qj35pfqqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
